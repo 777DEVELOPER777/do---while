@@ -1,0 +1,9 @@
+let price = 1500,
+let newprice = 1400,
+let procent = 100;
+do{
+var priceprocent;
+var discount;
+priceprocent = price/procent;
+discount = newprice/procent;
+}while(console.log("Price:" + priceprocent + "%","Discount:" + discount + "%"));
