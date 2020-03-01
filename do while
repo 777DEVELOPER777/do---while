@@ -1,4 +1,4 @@
-<html DOCEYPE!>
+<html DOCTYPE!>
 let price = 1500,
 let newprice = 1400,
 let procent = 100;
