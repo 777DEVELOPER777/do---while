@@ -1,9 +1,6 @@
 
-var price = 1500,
-var newprice = 1400,
-var procent = 100;
-var priceprocent;
-var discount;
+var price = 1500, newprice = 1400, procent = 100;
+var priceprocent, discount;
 do{
 priceprocent = price/procent;
 discount = newprice/procent;
